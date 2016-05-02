@@ -50,15 +50,3 @@ make
 
 Launching instructions:
 Run the program by using command: ./bms
-
-Operation instructions:
-1. Add course
-2. Delete course
-3. List all the courses (From head to back and back to head)
-4. Add textbook
-5. List course textbook
-6. Add product
-7. List all products
-8. Buy product
-9. View membership status
-0. Exit
