@@ -2,7 +2,7 @@ OBJ = main.o BMScontrol.o UImanager.o BookArray.o Course.o Book.o Product.o Eras
 
 all: clean bms
 
-a4:	$(OBJ)
+bms:	$(OBJ)
 	g++ -o bms $(OBJ)
 
 main.o:	main.cc
