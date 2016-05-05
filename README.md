@@ -15,7 +15,7 @@ This is a bookstore Management program. User class has a BuyBehaviour and user s
 - When the user wants to buy a product, he/she can search the product by their brand and if
 the user wants to buy a book, he/she can search books by title.
 
-- User can check their member function from the main menu.
+- User can check their membership status from the main menu.
 
 Source files:
 - main.cc
